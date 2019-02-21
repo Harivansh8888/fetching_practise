@@ -9,7 +9,7 @@ int fact(int n)
 }
 int main()
 {
-   int n = 4;   
+   int n = 4;   //Here User not needs to give Input//
    cout<<"Factorial of "<<n<<" is "<<fact(n);
    return 0;
 }
